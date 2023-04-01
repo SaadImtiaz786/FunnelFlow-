@@ -1,5 +1,6 @@
-import Login from './Login';
+//import Login from './Login';
 import './App.css';
+import Login from './Login';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         </div>
       <Login />
     </div>
+    
   );
 }
 
